@@ -1,0 +1,20 @@
+select{
+    color: gray;
+}
+
+input{
+    color: gray;
+}
+
+input:focus{
+    color: gray;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+  }
+
+.badge{
+    margin: 5px;
+    font-size: 30px;
+}
